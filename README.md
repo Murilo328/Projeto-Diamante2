@@ -1,4 +1,4 @@
-# 🚀 Space Objects
+# 🚀 Space Diamante
 
 Jogo de tiro com tema espacial feito em **Java** com **JavaFX**, como trabalho de Programação Orientada a Objetos (Senac).
 
